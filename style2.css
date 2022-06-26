@@ -1,0 +1,11 @@
+img{
+    width: 579px;
+    height: 371px;
+}
+.left-img{
+    position: absolute;
+    margin: 350px 873px 396px 276px;
+    animation: move 7s infinite ease-in-out;
+    animation-delay: 3s;
+
+}
